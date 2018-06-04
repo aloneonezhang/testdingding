@@ -9,9 +9,9 @@ public class Env {
     /**
      * 企业应用接入秘钥相关
      */
-    public static final String CORP_ID = "ding2649891a24c8501935c2f4657eb6378f ";
-    public static final String CORP_SECRET = "93wUcBCxZ3rmALsaKZTHfSzh8MLe_kCKxJCG8GGZrsoQSVSqES7xI4HRrvzrSO-B";
-    public static final String SSO_Secret = "aglKFFJZk5jjcdCY92i35GtZObf0oRyqbGY063pa7rMV0rFVue9bXV4Q17xxgC38";
+    public static final String CORP_ID = "";
+    public static final String CORP_SECRET = "";
+    public static final String SSO_Secret = "";
 
     /**
      * DING API地址
